@@ -1349,6 +1349,204 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "Simboli:SN74LVC1G11"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "U"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "SN74LVC1G11_0_1"
+				(polyline
+					(pts
+						(xy 12.7 -3.81) (xy 0 -3.81) (xy 0 -24.13)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "SN74LVC1G11_1_1"
+				(arc
+					(start 12.7 -3.81)
+					(mid 15.2361 -13.97)
+					(end 12.7 -24.13)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 -24.13) (xy 12.7 -24.13)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type color)
+						(color 255 153 0 1)
+					)
+				)
+				(pin input line
+					(at -2.54 -7.62 0)
+					(length 2.54)
+					(name "A"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -2.54 -13.97 0)
+					(length 2.54)
+					(name "B"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -2.54 -19.05 0)
+					(length 2.54)
+					(name "C"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 7.62 -1.27 270)
+					(length 2.54)
+					(name "Vcc"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 7.62 -26.67 90)
+					(length 2.54)
+					(name "GND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at 17.78 -13.97 180)
+					(length 2.54)
+					(name "Y"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "Switch:SW_Push"
 			(pin_numbers
 				(hide yes)
@@ -4478,10 +4676,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "202c89e8-b55f-41b2-ad1d-ae3d60aebb1b")
+			(uuid "202c89e8-b55f-41b2-ad1d-ae3d60aebb1c")
 		)
 		(pin "2"
-			(uuid "391242d2-3771-474f-9b20-c608450216e5")
+			(uuid "391242d2-3771-474f-9b20-c608450216e6")
 		)
 		(instances
 			(project ""
@@ -5243,10 +5441,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "24d1df4a-6066-4d55-94a5-ef209bc7f07c")
+			(uuid "24d1df4a-6066-4d55-94a5-ef209bc7f07d")
 		)
 		(pin "2"
-			(uuid "98fd1767-94f8-43a2-802e-55b7d7badded")
+			(uuid "98fd1767-94f8-43a2-802e-55b7d7baddee")
 		)
 		(instances
 			(project ""
@@ -5878,6 +6076,86 @@
 		)
 	)
 	(symbol
+		(lib_id "Simboli:SN74LVC1G11")
+		(at 121.92 165.1 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "e8e3f253-e7ce-4145-ac19-13a8821f06c5")
+		(property "Reference" "U3"
+			(at 139.7 172.6498 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "~"
+			(at 139.7 175.1898 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 121.92 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 121.92 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 121.92 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "a37b69de-da0c-4b42-b330-27dfb997350c")
+		)
+		(pin "2"
+			(uuid "397b5e58-8769-4fe4-a0e8-adff6eb98fcf")
+		)
+		(pin ""
+			(uuid "3ee43c9d-3c9d-43fe-a469-90ace1376f45")
+		)
+		(pin "3"
+			(uuid "c87e9301-9510-4b88-8e36-9fcd70a77cfc")
+		)
+		(pin "4"
+			(uuid "63a7c1a5-1543-4616-beab-e623750e04e9")
+		)
+		(pin "3"
+			(uuid "8c6619db-fdaa-4dcd-b896-7472449680a7")
+		)
+		(instances
+			(project ""
+				(path "/23c95eca-8904-4d33-ba1f-025189ff780a"
+					(reference "U3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R")
 		(at 29.21 154.94 0)
 		(unit 1)
@@ -5933,10 +6211,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "7aba7224-e924-4074-afcc-95d54aba4453")
+			(uuid "7aba7224-e924-4074-afcc-95d54aba4454")
 		)
 		(pin "1"
-			(uuid "674d6025-a831-429e-96ab-7d0093cc55bf")
+			(uuid "674d6025-a831-429e-96ab-7d0093cc55c0")
 		)
 		(instances
 			(project ""
