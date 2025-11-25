@@ -6702,7 +6702,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Display_7Segment:HDSP-7401"
 			(at 177.8 43.18 0)
 			(effects
 				(font
@@ -6880,7 +6880,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Display_7Segment:HDSP-7401"
 			(at 201.93 99.06 0)
 			(effects
 				(font
@@ -6908,52 +6908,52 @@
 			)
 		)
 		(pin "2"
-			(uuid "0dd288b4-dc50-4b4e-9fb5-c15cf1963aee")
+			(uuid "0dd288b4-dc50-4b4e-9fb5-c15cf1963aef")
 		)
 		(pin "5"
-			(uuid "7c127f46-7c2c-4d19-9626-4bc40c91b79e")
+			(uuid "7c127f46-7c2c-4d19-9626-4bc40c91b79f")
 		)
 		(pin "1"
-			(uuid "dd0ff8f2-35ed-4c50-9d8c-1dde94ea89ff")
+			(uuid "dd0ff8f2-35ed-4c50-9d8c-1dde94ea8a00")
 		)
 		(pin "11"
-			(uuid "91d303c9-28b6-40e0-b423-91bb9ff9b8b3")
+			(uuid "91d303c9-28b6-40e0-b423-91bb9ff9b8b4")
 		)
 		(pin "13"
-			(uuid "74a7aadf-8081-4b72-bb85-75ca72fae35b")
+			(uuid "74a7aadf-8081-4b72-bb85-75ca72fae35c")
 		)
 		(pin "12"
-			(uuid "a3040421-33e2-4ff5-a0a2-6484d60ab5be")
+			(uuid "a3040421-33e2-4ff5-a0a2-6484d60ab5bf")
 		)
 		(pin "4"
-			(uuid "4283c4cc-c901-4174-bfeb-b1d2635076f9")
+			(uuid "4283c4cc-c901-4174-bfeb-b1d2635076fa")
 		)
 		(pin "10"
-			(uuid "6e63a470-893e-4bf1-82dc-76d9ac9dfd3d")
+			(uuid "6e63a470-893e-4bf1-82dc-76d9ac9dfd3e")
 		)
 		(pin "15"
-			(uuid "2b263d7d-341f-4ee3-a54c-34650019edb4")
+			(uuid "2b263d7d-341f-4ee3-a54c-34650019edb5")
 		)
 		(pin "7"
-			(uuid "6b001635-b085-48aa-b688-c3c4f6886453")
+			(uuid "6b001635-b085-48aa-b688-c3c4f6886454")
 		)
 		(pin "16"
-			(uuid "63892086-2ef3-4d32-8401-4bcdae537971")
+			(uuid "63892086-2ef3-4d32-8401-4bcdae537972")
 		)
 		(pin "6"
-			(uuid "81e552f3-9b86-43cd-bba4-8c712ecadfd9")
+			(uuid "81e552f3-9b86-43cd-bba4-8c712ecadfda")
 		)
 		(pin "3"
-			(uuid "92015256-3200-49d7-b8fc-8b1138df3de6")
+			(uuid "92015256-3200-49d7-b8fc-8b1138df3de7")
 		)
 		(pin "9"
-			(uuid "a6db4281-7837-4e14-8556-9c92d0db9407")
+			(uuid "a6db4281-7837-4e14-8556-9c92d0db9408")
 		)
 		(pin "14"
-			(uuid "8c078c01-d14e-4411-b6b6-67f048980958")
+			(uuid "8c078c01-d14e-4411-b6b6-67f048980959")
 		)
 		(pin "8"
-			(uuid "6a3b5ea9-f828-4ca4-8f96-cfed38d6eb3b")
+			(uuid "6a3b5ea9-f828-4ca4-8f96-cfed38d6eb3c")
 		)
 		(instances
 			(project ""
@@ -7274,7 +7274,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
 			(at 182.88 157.988 90)
 			(effects
 				(font
@@ -7344,7 +7344,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
 			(at 188.722 83.82 90)
 			(effects
 				(font
@@ -7568,7 +7568,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MountingHole:MountingHole_5.5mm"
 			(at 252.73 146.05 0)
 			(effects
 				(font
@@ -7632,7 +7632,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
 			(at 71.882 83.82 90)
 			(effects
 				(font
@@ -7700,7 +7700,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
 			(at 234.95 58.928 90)
 			(effects
 				(font
@@ -7928,7 +7928,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
 			(at 16.002 134.62 90)
 			(effects
 				(font
@@ -8328,7 +8328,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:CP_Radial_D5.0mm_P2.00mm"
 			(at 119.0752 53.34 0)
 			(effects
 				(font
@@ -8395,7 +8395,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
 			(at 182.88 142.748 90)
 			(effects
 				(font
@@ -8465,7 +8465,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
 			(at 49.2252 129.54 0)
 			(effects
 				(font
@@ -8666,7 +8666,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal"
 			(at 100.33 49.53 0)
 			(effects
 				(font
@@ -8736,7 +8736,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
 			(at 118.872 83.82 90)
 			(effects
 				(font
@@ -8935,7 +8935,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
 			(at 182.88 163.068 90)
 			(effects
 				(font
@@ -9003,7 +9003,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
 			(at 234.95 47.498 90)
 			(effects
 				(font
@@ -9139,7 +9139,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
 			(at 18.7452 173.99 0)
 			(effects
 				(font
@@ -9207,7 +9207,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm_H4.3mm"
 			(at 25.4 81.28 0)
 			(effects
 				(font
@@ -9343,7 +9343,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DIP:DIP-16_W7.62mm_Socket_LongPads"
 			(at 158.75 99.06 0)
 			(effects
 				(font
@@ -9455,7 +9455,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MountingHole:MountingHole_5.5mm"
 			(at 252.73 139.7 0)
 			(effects
 				(font
@@ -9519,7 +9519,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-6"
 			(at 153.67 146.05 0)
 			(effects
 				(font
@@ -9632,7 +9632,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Display_7Segment:HDSP-7401"
 			(at 180.34 99.06 0)
 			(effects
 				(font
@@ -9660,52 +9660,52 @@
 			)
 		)
 		(pin "2"
-			(uuid "0dd288b4-dc50-4b4e-9fb5-c15cf1963aee")
+			(uuid "0dd288b4-dc50-4b4e-9fb5-c15cf1963af0")
 		)
 		(pin "5"
-			(uuid "7c127f46-7c2c-4d19-9626-4bc40c91b79e")
+			(uuid "7c127f46-7c2c-4d19-9626-4bc40c91b7a0")
 		)
 		(pin "1"
-			(uuid "dd0ff8f2-35ed-4c50-9d8c-1dde94ea89ff")
+			(uuid "dd0ff8f2-35ed-4c50-9d8c-1dde94ea8a01")
 		)
 		(pin "11"
-			(uuid "91d303c9-28b6-40e0-b423-91bb9ff9b8b3")
+			(uuid "91d303c9-28b6-40e0-b423-91bb9ff9b8b5")
 		)
 		(pin "13"
-			(uuid "74a7aadf-8081-4b72-bb85-75ca72fae35b")
+			(uuid "74a7aadf-8081-4b72-bb85-75ca72fae35d")
 		)
 		(pin "12"
-			(uuid "a3040421-33e2-4ff5-a0a2-6484d60ab5be")
+			(uuid "a3040421-33e2-4ff5-a0a2-6484d60ab5c0")
 		)
 		(pin "4"
-			(uuid "4283c4cc-c901-4174-bfeb-b1d2635076f9")
+			(uuid "4283c4cc-c901-4174-bfeb-b1d2635076fb")
 		)
 		(pin "10"
-			(uuid "6e63a470-893e-4bf1-82dc-76d9ac9dfd3d")
+			(uuid "6e63a470-893e-4bf1-82dc-76d9ac9dfd3f")
 		)
 		(pin "15"
-			(uuid "2b263d7d-341f-4ee3-a54c-34650019edb4")
+			(uuid "2b263d7d-341f-4ee3-a54c-34650019edb6")
 		)
 		(pin "7"
-			(uuid "6b001635-b085-48aa-b688-c3c4f6886453")
+			(uuid "6b001635-b085-48aa-b688-c3c4f6886455")
 		)
 		(pin "16"
-			(uuid "63892086-2ef3-4d32-8401-4bcdae537971")
+			(uuid "63892086-2ef3-4d32-8401-4bcdae537973")
 		)
 		(pin "6"
-			(uuid "81e552f3-9b86-43cd-bba4-8c712ecadfd9")
+			(uuid "81e552f3-9b86-43cd-bba4-8c712ecadfdb")
 		)
 		(pin "3"
-			(uuid "92015256-3200-49d7-b8fc-8b1138df3de6")
+			(uuid "92015256-3200-49d7-b8fc-8b1138df3de8")
 		)
 		(pin "9"
-			(uuid "a6db4281-7837-4e14-8556-9c92d0db9407")
+			(uuid "a6db4281-7837-4e14-8556-9c92d0db9409")
 		)
 		(pin "14"
-			(uuid "8c078c01-d14e-4411-b6b6-67f048980958")
+			(uuid "8c078c01-d14e-4411-b6b6-67f04898095a")
 		)
 		(pin "8"
-			(uuid "6a3b5ea9-f828-4ca4-8f96-cfed38d6eb3b")
+			(uuid "6a3b5ea9-f828-4ca4-8f96-cfed38d6eb3d")
 		)
 		(instances
 			(project ""
@@ -9742,7 +9742,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DIP:DIP-16_W7.62mm_Socket_LongPads"
 			(at 135.89 99.06 0)
 			(effects
 				(font
@@ -9770,52 +9770,52 @@
 			)
 		)
 		(pin "7"
-			(uuid "eab50d5f-05b4-4104-a0a3-488fa094c959")
+			(uuid "eab50d5f-05b4-4104-a0a3-488fa094c95a")
 		)
 		(pin "8"
-			(uuid "b92b7045-5df7-4116-8139-e5ea56111dd6")
+			(uuid "b92b7045-5df7-4116-8139-e5ea56111dd7")
 		)
 		(pin "2"
-			(uuid "dd087992-dfa8-482f-bead-2312d2265921")
+			(uuid "dd087992-dfa8-482f-bead-2312d2265922")
 		)
 		(pin "15"
-			(uuid "4fb0ab92-f8d2-42be-903d-94a42bb146dc")
+			(uuid "4fb0ab92-f8d2-42be-903d-94a42bb146dd")
 		)
 		(pin "6"
-			(uuid "ef4c4a28-717c-4ae7-b7f2-d9b81f335e96")
+			(uuid "ef4c4a28-717c-4ae7-b7f2-d9b81f335e97")
 		)
 		(pin "5"
-			(uuid "829bcc39-87b4-41a8-9008-f1518ffafd42")
+			(uuid "829bcc39-87b4-41a8-9008-f1518ffafd43")
 		)
 		(pin "10"
-			(uuid "ce881e89-fc86-4f3d-872b-2afd086b786c")
+			(uuid "ce881e89-fc86-4f3d-872b-2afd086b786d")
 		)
 		(pin "4"
-			(uuid "f8739f73-fcde-43bb-baf5-bd611250ada0")
+			(uuid "f8739f73-fcde-43bb-baf5-bd611250ada1")
 		)
 		(pin "1"
-			(uuid "72cf48a1-f2bb-433e-bf44-fbfb1165a790")
+			(uuid "72cf48a1-f2bb-433e-bf44-fbfb1165a791")
 		)
 		(pin "9"
-			(uuid "adf1291c-7209-462d-94a1-cdbcb89eaf4c")
+			(uuid "adf1291c-7209-462d-94a1-cdbcb89eaf4d")
 		)
 		(pin "14"
-			(uuid "28968522-5bc0-47e2-a99d-8d07abab7a3f")
+			(uuid "28968522-5bc0-47e2-a99d-8d07abab7a40")
 		)
 		(pin "16"
-			(uuid "8ca5b563-2bf5-457c-a067-7ab176b3f2ba")
+			(uuid "8ca5b563-2bf5-457c-a067-7ab176b3f2bb")
 		)
 		(pin "3"
-			(uuid "f5a217f5-cf66-4bfe-9c03-12d346006ebc")
+			(uuid "f5a217f5-cf66-4bfe-9c03-12d346006ebd")
 		)
 		(pin "13"
-			(uuid "1cd0357f-e551-464e-aed4-c69738598ebf")
+			(uuid "1cd0357f-e551-464e-aed4-c69738598ec0")
 		)
 		(pin "12"
-			(uuid "ea875611-25aa-44e5-b8e8-3f93e5986fdb")
+			(uuid "ea875611-25aa-44e5-b8e8-3f93e5986fdc")
 		)
 		(pin "11"
-			(uuid "337f0079-b935-4837-8a0d-e78b3229a1e6")
+			(uuid "337f0079-b935-4837-8a0d-e78b3229a1e7")
 		)
 		(instances
 			(project ""
@@ -9924,7 +9924,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
 			(at 121.412 151.13 90)
 			(effects
 				(font
@@ -9992,7 +9992,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
 			(at 234.95 25.908 90)
 			(effects
 				(font
@@ -10060,7 +10060,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_THT:LED_D5.0mm"
 			(at 246.38 35.56 0)
 			(effects
 				(font
@@ -10136,7 +10136,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
 			(at 182.88 152.908 90)
 			(effects
 				(font
@@ -10203,7 +10203,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
 			(at 182.88 132.588 90)
 			(effects
 				(font
@@ -10273,7 +10273,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
 			(at 144.272 83.82 90)
 			(effects
 				(font
@@ -10409,7 +10409,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
 			(at 167.132 83.82 90)
 			(effects
 				(font
@@ -10545,7 +10545,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MountingHole:MountingHole_5.5mm"
 			(at 252.73 132.08 0)
 			(effects
 				(font
@@ -10673,7 +10673,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_THT:LED_D5.0mm"
 			(at 246.38 57.15 0)
 			(effects
 				(font
@@ -10815,7 +10815,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TerminalBlock_MetzConnect:TerminalBlock_MetzConnect_Type011_RT05502HBLC_1x02_P5.00mm_Horizontal"
 			(at 22.86 39.37 0)
 			(effects
 				(font
@@ -10949,7 +10949,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
 			(at 27.94 72.0852 0)
 			(effects
 				(font
@@ -11019,7 +11019,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:CP_Radial_D5.0mm_P2.00mm"
 			(at 55.5752 53.34 0)
 			(effects
 				(font
@@ -11087,7 +11087,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
 			(at 38.1 88.138 90)
 			(effects
 				(font
@@ -11353,7 +11353,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_THT:LED_D5.0mm"
 			(at 246.38 45.72 0)
 			(effects
 				(font
@@ -11430,7 +11430,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_THT:LED_D5.0mm"
 			(at 246.38 24.13 0)
 			(effects
 				(font
@@ -11637,7 +11637,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Inductor_THT:L_Radial_D7.2mm_P3.00mm_Murata_1700"
 			(at 109.22 41.91 0)
 			(effects
 				(font
@@ -11771,7 +11771,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
 			(at 234.95 37.338 90)
 			(effects
 				(font
@@ -11905,7 +11905,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DIP:DIP-16_W7.62mm_Socket_LongPads"
 			(at 247.65 81.28 0)
 			(effects
 				(font
@@ -12053,7 +12053,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
 			(at 16.002 152.4 90)
 			(effects
 				(font
@@ -12123,7 +12123,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MountingHole:MountingHole_5.5mm"
 			(at 252.73 152.4 0)
 			(effects
 				(font
@@ -12184,7 +12184,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
 			(at 182.88 137.668 90)
 			(effects
 				(font
@@ -12254,7 +12254,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DIP:DIP-16_W7.62mm_Socket_LongPads"
 			(at 152.4 43.18 0)
 			(effects
 				(font
@@ -12282,52 +12282,52 @@
 			)
 		)
 		(pin "7"
-			(uuid "eab50d5f-05b4-4104-a0a3-488fa094c959")
+			(uuid "eab50d5f-05b4-4104-a0a3-488fa094c95b")
 		)
 		(pin "8"
-			(uuid "b92b7045-5df7-4116-8139-e5ea56111dd6")
+			(uuid "b92b7045-5df7-4116-8139-e5ea56111dd8")
 		)
 		(pin "2"
-			(uuid "dd087992-dfa8-482f-bead-2312d2265921")
+			(uuid "dd087992-dfa8-482f-bead-2312d2265923")
 		)
 		(pin "15"
-			(uuid "4fb0ab92-f8d2-42be-903d-94a42bb146dc")
+			(uuid "4fb0ab92-f8d2-42be-903d-94a42bb146de")
 		)
 		(pin "6"
-			(uuid "ef4c4a28-717c-4ae7-b7f2-d9b81f335e96")
+			(uuid "ef4c4a28-717c-4ae7-b7f2-d9b81f335e98")
 		)
 		(pin "5"
-			(uuid "829bcc39-87b4-41a8-9008-f1518ffafd42")
+			(uuid "829bcc39-87b4-41a8-9008-f1518ffafd44")
 		)
 		(pin "10"
-			(uuid "ce881e89-fc86-4f3d-872b-2afd086b786c")
+			(uuid "ce881e89-fc86-4f3d-872b-2afd086b786e")
 		)
 		(pin "4"
-			(uuid "f8739f73-fcde-43bb-baf5-bd611250ada0")
+			(uuid "f8739f73-fcde-43bb-baf5-bd611250ada2")
 		)
 		(pin "1"
-			(uuid "72cf48a1-f2bb-433e-bf44-fbfb1165a790")
+			(uuid "72cf48a1-f2bb-433e-bf44-fbfb1165a792")
 		)
 		(pin "9"
-			(uuid "adf1291c-7209-462d-94a1-cdbcb89eaf4c")
+			(uuid "adf1291c-7209-462d-94a1-cdbcb89eaf4e")
 		)
 		(pin "14"
-			(uuid "28968522-5bc0-47e2-a99d-8d07abab7a3f")
+			(uuid "28968522-5bc0-47e2-a99d-8d07abab7a41")
 		)
 		(pin "16"
-			(uuid "8ca5b563-2bf5-457c-a067-7ab176b3f2ba")
+			(uuid "8ca5b563-2bf5-457c-a067-7ab176b3f2bc")
 		)
 		(pin "3"
-			(uuid "f5a217f5-cf66-4bfe-9c03-12d346006ebc")
+			(uuid "f5a217f5-cf66-4bfe-9c03-12d346006ebe")
 		)
 		(pin "13"
-			(uuid "1cd0357f-e551-464e-aed4-c69738598ebf")
+			(uuid "1cd0357f-e551-464e-aed4-c69738598ec1")
 		)
 		(pin "12"
-			(uuid "ea875611-25aa-44e5-b8e8-3f93e5986fdb")
+			(uuid "ea875611-25aa-44e5-b8e8-3f93e5986fdd")
 		)
 		(pin "11"
-			(uuid "337f0079-b935-4837-8a0d-e78b3229a1e6")
+			(uuid "337f0079-b935-4837-8a0d-e78b3229a1e8")
 		)
 		(instances
 			(project ""
@@ -12363,7 +12363,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
 			(at 182.88 147.828 90)
 			(effects
 				(font
