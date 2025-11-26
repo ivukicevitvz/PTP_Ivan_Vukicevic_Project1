@@ -4668,7 +4668,7 @@
 	)
 	(wire
 		(pts
-			(xy 85.09 60.96) (xy 85.09 67.31)
+			(xy 85.09 60.96) (xy 85.09 63.5)
 		)
 		(stroke
 			(width 0)
@@ -6702,7 +6702,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Display_7Segment:HDSP-7401"
+		(property "Footprint" "Package_DIP:DIP-16_W7.62mm_Socket_LongPads"
 			(at 177.8 43.18 0)
 			(effects
 				(font
@@ -6880,7 +6880,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Display_7Segment:HDSP-7401"
+		(property "Footprint" "Package_DIP:DIP-16_W7.62mm_Socket_LongPads"
 			(at 201.93 99.06 0)
 			(effects
 				(font
@@ -8846,7 +8846,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 85.09 67.31 0)
+		(at 85.09 63.5 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8855,7 +8855,7 @@
 		(fields_autoplaced yes)
 		(uuid "78c2c266-947e-414f-8182-e0a32b8bfec6")
 		(property "Reference" "#PWR04"
-			(at 85.09 73.66 0)
+			(at 85.09 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8864,7 +8864,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 85.09 72.39 0)
+			(at 85.09 68.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8872,7 +8872,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 85.09 67.31 0)
+			(at 85.09 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8881,7 +8881,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 85.09 67.31 0)
+			(at 85.09 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8890,7 +8890,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 85.09 67.31 0)
+			(at 85.09 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9519,7 +9519,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-6"
+		(property "Footprint" "Package_DIP:DIP-16_W7.62mm_Socket_LongPads"
 			(at 153.67 146.05 0)
 			(effects
 				(font
@@ -9632,7 +9632,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Display_7Segment:HDSP-7401"
+		(property "Footprint" "Package_DIP:DIP-16_W7.62mm_Socket_LongPads"
 			(at 180.34 99.06 0)
 			(effects
 				(font
@@ -10931,10 +10931,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "bdca9e9a-fe3d-4e19-83c5-62214d61b696")
 		(property "Reference" "C5"
-			(at 31.75 63.5 90)
+			(at 26.67 67.31 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11905,7 +11904,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-16_W7.62mm_Socket_LongPads"
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-6"
 			(at 247.65 81.28 0)
 			(effects
 				(font
